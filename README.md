@@ -304,4 +304,4 @@ Interests: Dental AI, Medical Informatics, Clinical Decision Support
 
 ---
 
-*This project was developed as part of a postgraduate application portfolio demonstrating applied AI in dental medicine.*
+*This project was developed independently as a personal research initiative and is not affiliated with, endorsed by, or tied to any university, commercial organization, or third-party institution.*
